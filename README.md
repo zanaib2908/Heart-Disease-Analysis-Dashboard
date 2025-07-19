@@ -9,6 +9,7 @@ It analyzes survival rates, age and gender trends, and key risk factors such as 
 - **Total Deaths:** 96
 
 The dashboard visualizes:
+
 ✅ Survival count by age group  
 ✅ Average serum creatinine & ejection fraction  
 ✅ Survival rate by gender and age  
